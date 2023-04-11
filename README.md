@@ -1,2 +1,2 @@
 # rdata
-Just anther resository
+Just another repository
